@@ -1,0 +1,64 @@
+﻿0. Gwl
+	
+	Finder
+	
+		Cleaner
+
+		Renamer
+		------------------------
+		img_234_20230501.jpg
+		img_235_20230501.jpg
+
+		picture_2023_70.jpg
+
+			increment(1,1)
+			c_date
+			old_name
+			uuid
+
+
+		pquiyweroiuyewr.jpg
+		oiuyewrkjhsdf.jpg
+
+
+		img_<increment(100,4)>_<uuid>
+
+		img_34_20230501.jpg
+
+
+
+
+
+		------------------------
+
+		Archiver
+
+		Encoder / decoder		???
+
+		Groupper
+
+-------------------------------------------
+
+*.jpg
+*.png
+*.bmp
+???^??.doc
+
+?asia.jpg
+
+
+
+
+
+
+--------------------------------------------
+
+1. Программа для тестирования
+
+2. Секретный блокнот
+
+3. Аудиоплеер
+
+4. Хранилище паролей (keepass)
+
+5. Галерея

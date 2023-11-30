@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QcDTtYqSWBoSPsdqE0RcSTO1Q5+FvzapgHQ5Qr/UIou/x9sUZHgHn1HCrYwsHSh6OUdIU0y4BHPTpG3rAe/3sg==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\C#\\WPF\\Gwl\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artem\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

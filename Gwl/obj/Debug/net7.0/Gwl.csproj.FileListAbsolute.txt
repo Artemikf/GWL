@@ -1,0 +1,12 @@
+D:\Programming\C#\WPF\Gwl\Gwl\bin\Debug\net7.0\Gwl.deps.json
+D:\Programming\C#\WPF\Gwl\Gwl\bin\Debug\net7.0\Gwl.dll
+D:\Programming\C#\WPF\Gwl\Gwl\bin\Debug\net7.0\Gwl.pdb
+D:\Programming\C#\WPF\Gwl\Gwl\obj\Debug\net7.0\Gwl.csproj.AssemblyReference.cache
+D:\Programming\C#\WPF\Gwl\Gwl\obj\Debug\net7.0\Gwl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\WPF\Gwl\Gwl\obj\Debug\net7.0\Gwl.AssemblyInfoInputs.cache
+D:\Programming\C#\WPF\Gwl\Gwl\obj\Debug\net7.0\Gwl.AssemblyInfo.cs
+D:\Programming\C#\WPF\Gwl\Gwl\obj\Debug\net7.0\Gwl.csproj.CoreCompileInputs.cache
+D:\Programming\C#\WPF\Gwl\Gwl\obj\Debug\net7.0\Gwl.dll
+D:\Programming\C#\WPF\Gwl\Gwl\obj\Debug\net7.0\refint\Gwl.dll
+D:\Programming\C#\WPF\Gwl\Gwl\obj\Debug\net7.0\Gwl.pdb
+D:\Programming\C#\WPF\Gwl\Gwl\obj\Debug\net7.0\ref\Gwl.dll
