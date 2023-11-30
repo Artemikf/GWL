@@ -6,8 +6,7 @@ namespace Gwl.EncoderDecoder
     {
         public string Decode(string content)
         {
-            // Реализация декодирования
-            // Например, просто возвращаем обратную строку
+            // нужно немного дописать
             return ReverseString(content);
         }
 

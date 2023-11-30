@@ -10,7 +10,6 @@ namespace Gwl.FilesArchiver
     {
         public void ArchiveFiles(string rootPath, string[] fileMasks)
         {
-            // Используем Finder для поиска файлов
             Finder finder = new Finder(Finder.AnalyzerStrategy.RegexStrategy);
             finder.FindFilesByMask(rootPath, fileMasks);
 
